@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import animations from 'tailwindcss-animated'
 
 import tailwindcss from '@tailwindcss/vite';
 
